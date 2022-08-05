@@ -9,14 +9,14 @@ group:
 
 ## Pagination
 ### 如何使用   
-`import { Pagination } from 'emoui';`
+`import { Pagination } from '@septem/emoui';`
 
 
 ### 基本用法
 
 ```tsx
 import React from 'react';
-import { Pagination } from 'emoui';
+import { Pagination } from '@septem/emoui';
 
 export default () => (
     <>

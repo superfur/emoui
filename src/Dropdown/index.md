@@ -13,7 +13,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Dropdown } from 'emoui';
+import { Dropdown } from '@septem/emoui';
 
 export default () => <Dropdown></Dropdown>;
 ```

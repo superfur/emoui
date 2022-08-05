@@ -9,14 +9,14 @@ group:
 
 ## Toast
 ### 如何使用   
-`import { Toast } from 'emoui';`
+`import { Toast } from '@septem/emoui';`
 
 
 ### 基本用法
 
 ```tsx
 import React from 'react';
-import { Toast } from 'emoui';
+import { Toast } from '@septem/emoui';
 
 export default () => (
     <>

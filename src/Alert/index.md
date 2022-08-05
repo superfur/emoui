@@ -14,7 +14,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Alert } from 'emoui';
+import { Alert } from '@septem/emoui';
 
 export default () => {
     return (

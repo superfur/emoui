@@ -9,14 +9,14 @@ group:
 
 ## Spin
 ### 如何使用   
-`import { Spin } from 'emoui';`
+`import { Spin } from '@septem/emoui';`
 
 
 ### 基本用法
 
 ```tsx
 import React from 'react';
-import { Spin } from 'emoui';
+import { Spin } from '@septem/emoui';
 
 export default () => (
     <>

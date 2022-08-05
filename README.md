@@ -1,4 +1,4 @@
-# emoui
+# @septem/emoui
 
 ## Getting Started
 

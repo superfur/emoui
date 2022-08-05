@@ -9,14 +9,14 @@ group:
 
 ## Button 按钮
 ### 如何使用   
-`import { Button } from 'emoui';`
+`import { Button } from '@septem/emoui';`
 
 
 ### 基本用法
 
 ```tsx
 import React from 'react';
-import { Button } from 'emoui';
+import { Button } from '@septem/emoui';
 
 export default () => (
     <>
@@ -33,7 +33,7 @@ export default () => (
 
 ```tsx
 import React from 'react';
-import { Button } from 'emoui';
+import { Button } from '@septem/emoui';
 
 export default () => (
     <>
@@ -48,7 +48,7 @@ export default () => (
 > outline: boolean
 ```tsx
 import React from 'react';
-import { Button } from 'emoui';
+import { Button } from '@septem/emoui';
 
 export default () => (
     <>
@@ -64,7 +64,7 @@ export default () => (
 
 ```tsx
 import React from 'react';
-import { Button } from 'emoui';
+import { Button } from '@septem/emoui';
 
 export default () => (
     <>
@@ -79,7 +79,7 @@ export default () => (
 > block: boolean
 ```tsx
 import React from 'react';
-import { Button } from 'emoui';
+import { Button } from '@septem/emoui';
 
 export default () => (
     <>
@@ -91,7 +91,7 @@ export default () => (
 > link: string
 ```tsx
 import React from 'react';
-import { Button } from 'emoui';
+import { Button } from '@septem/emoui';
 
 export default () => (
     <>
@@ -103,7 +103,7 @@ export default () => (
 > shape: 'cicle' | 'square'
 ```tsx
 import React from 'react';
-import { Button } from 'emoui';
+import { Button } from '@septem/emoui';
 
 export default () => (
     <>
@@ -120,7 +120,7 @@ export default () => (
 > disabled: boolean
 ```tsx
 import React from 'react';
-import { Button } from 'emoui';
+import { Button } from '@septem/emoui';
 
 export default () => (
     <>
@@ -132,7 +132,7 @@ export default () => (
 > loading: boolean
 ```tsx
 import React from 'react';
-import { Button } from 'emoui';
+import { Button } from '@septem/emoui';
 
 export default () => (
     <>
